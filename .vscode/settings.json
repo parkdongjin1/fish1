@@ -1,0 +1,18 @@
+{
+    "python.testing.pytestArgs": [
+        "."
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": false,
+    "python.testing.promptToConfigure": false,
+    "azureFunctions.deploySubpath": ".",
+    "azureFunctions.scmDoBuildDuringDeployment": true,
+    "azureFunctions.pythonVenv": ".venv",
+    "azureFunctions.projectLanguage": "Python",
+    "azureFunctions.projectRuntime": "~3",
+    "debug.internalConsoleOptions": "neverOpen",
+    "appService.defaultWebAppToDeploy": "/subscriptions/5e1d2b84-a306-4fd1-8fbe-301a3b0fb643/resourceGroups/azwebapp22/providers/Microsoft.Web/sites/azwebapp22",
+    "appService.deploySubpath": ".",
+    "python.pythonPath": "C:\\Users\\20159\\AppData\\Local\\Programs\\Python\\Python39\\python.exe"
+}

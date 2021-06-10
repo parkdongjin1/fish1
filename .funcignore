@@ -1,0 +1,5 @@
+.git*
+.vscode
+.settings.json
+test
+.venv
